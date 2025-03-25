@@ -21,8 +21,8 @@ Users can claim free test tokens (WND / PSO) by verifying their identity using T
 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/westend-paseo-faucet.git
-cd westend-paseo-faucet
+git clone https://github.com/labturna/Faucet-TOTP.git
+cd Faucet-TOTP
 ```
 
 2. Start Redis
